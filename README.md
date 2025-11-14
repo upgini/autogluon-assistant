@@ -86,8 +86,6 @@ export UPGINI_API_KEY="<your-upgini-api-key>"
 mlzero -i <input_data_folder>
 ```
 
-
-
 ## Citation
 If you use Autogluon Assistant (MLZero) in your research, please cite our paper:
 
